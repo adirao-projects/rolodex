@@ -1,0 +1,11 @@
+function load_firebase(username, password){
+    
+}
+
+function shuffle_commit(uid) {
+
+}
+
+function get_random_friend(uid){
+
+}
